@@ -1,8 +1,8 @@
 # Cinema-microservice:
-Este repositório apresenta uma api em microsserviços com *Node.js* e *Mongodb* para um cinema fake.
+Este repositório apresenta uma api em microsserviços com *__Node.js__* e *__Mongodb__* para um cinema fake.
 O projeto é dividido em dois serviços básicos:
 * [__movies-services__](https://github.com/davigsa/cinema-microservice/tree/master/movies-service/src)
-* [__cinema-catalog-service__}()
+* [__cinema-catalog-service__]()
 
 ---
 
